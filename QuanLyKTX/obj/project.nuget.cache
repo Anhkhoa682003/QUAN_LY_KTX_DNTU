@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUhksDtp+Ws=",
+  "dgSpecHash": "CirrNf55idg=",
   "success": true,
-  "projectFilePath": "D:\\Hoc_tap\\Phat trien ung dung\\Nhom 4\\Project\\QuanLyKTX\\QuanLyKTX\\QuanLyKTX.csproj",
+  "projectFilePath": "D:\\Hoc_tap\\Phat trien ung dung\\Nhom 4\\Project\\Quan Ly KTX DNTU\\QuanLyKTX\\QuanLyKTX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khoab\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\khoab\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

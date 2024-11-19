@@ -8,36 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Bangtin.cshtml" />
-    <Content Remove="Views\Bomaytochuc.cshtml" />
-    <Content Remove="Views\Dangki.cshtml" />
-    <Content Remove="Views\Dangnhap.cshtml" />
-    <Content Remove="Views\Gioithieu.cshtml" />
-    <Content Remove="Views\Lienhe.cshtml" />
-    <Content Remove="Views\Quanlysinhvien.cshtml" />
-    <Content Remove="Views\Quydinh.cshtml" />
-    <Content Remove="Views\Thongbao.cshtml" />
-    <Content Remove="Views\Tongquan.cshtml" />
-    <Content Remove="Views\Trangchu.cshtml" />
-    <Content Remove="Views\Xulyyeucau.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Views\Bangtin.cshtml" />
-    <None Include="Views\Bomaytochuc.cshtml" />
-    <None Include="Views\Dangki.cshtml" />
-    <None Include="Views\Dangnhap.cshtml" />
-    <None Include="Views\Gioithieu.cshtml" />
-    <None Include="Views\Lienhe.cshtml" />
-    <None Include="Views\Quanlysinhvien.cshtml" />
-    <None Include="Views\Quydinh.cshtml" />
-    <None Include="Views\Thongbao.cshtml" />
-    <None Include="Views\Tongquan.cshtml" />
-    <None Include="Views\Trangchu.cshtml" />
-    <None Include="Views\Xulyyeucau.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.10" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.10" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.10" />

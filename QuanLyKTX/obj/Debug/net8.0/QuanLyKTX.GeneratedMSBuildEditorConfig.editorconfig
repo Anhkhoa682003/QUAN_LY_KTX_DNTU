@@ -9,47 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QuanLyKTX
 build_property.RootNamespace = QuanLyKTX
-build_property.ProjectDir = C:\Users\Acer\Downloads\QuanLyKTX\QuanLyKTX\QuanLyKTX\
+build_property.ProjectDir = D:\Hoc_tap\Phat trien ung dung\Nhom 4\Project\Quan Ly KTX DNTU\QuanLyKTX\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Acer\Downloads\QuanLyKTX\QuanLyKTX\QuanLyKTX
+build_property.MSBuildProjectDirectory = D:\Hoc_tap\Phat trien ung dung\Nhom 4\Project\Quan Ly KTX DNTU\QuanLyKTX
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Views/Dangnhap/Index.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Bangtin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuZ3RpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Bomaytochuc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9tYXl0b2NodWNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Dangkyphong/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ2t5cGhvbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Dangnhap/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ25oYXBcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Views/Home/Index.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Gioithieu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvaXRoaWV1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Views/Shared/Error.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Lienhe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGllbmhlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Quanlysinhvien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5c2luaHZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Quydinh/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXV5ZGluaFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Views/Shared/_LoginPartial.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Views/_ViewImports.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Thongbao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvbmdiYW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Tongquan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9uZ3F1YW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Views/_ViewStart.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/Downloads/QuanLyKTX/QuanLyKTX/QuanLyKTX/Views/Shared/_Layout.cshtml]
+[D:/Hoc_tap/Phat trien ung dung/Nhom 4/Project/Quan Ly KTX DNTU/QuanLyKTX/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c2m7twjrpy

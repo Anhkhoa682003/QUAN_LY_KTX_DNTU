@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Quản lý sinh viên - KTX DNTU";
+}
+<nav id="sidebar">
+    <ul class="nav-list">
+        <li><a asp-controller="Bangtin">Bảng tin</a></li>
+        <li><a asp-controller="Thongbao">Thông báo</a></li>
+        <li><a asp-controller="Quydinh">Quy định</a></li>
+        <li><a asp-controller="Dangkyphong">Đăng ký phòng</a></li>
+        <li><a asp-controller="Bomaytochuc">Bộ máy tổ chức</a></li>
+        <li><a asp-controller="Lienhe">Liên hệ</a></li>
+        <li><a asp-controller="Gioithieu">Giới thiệu</a></li>
+    </ul>
+</nav>
+<section>
+    <div id="lich">
+        <h1>Lịch</h1>
+        <input type="datetime-local">
+        <h1>Sinh viên</h1>
+        <div id="thanhtoan">
+            <div id="roi">
+                <h1>82</h1>
+                <h3>Đã thanh toán</h3>
+            </div>
+            <div id="chua">
+                <h1>82</h1>
+                <h3>Đã thanh toán</h3>
+            </div>
+        </div>
+    </div>
+    <div id="danhsach">
+        <h1>Danh sách sinh viên ở ky túc xá</h1>
+        <h3>Tìm kiếm dũ liệu theo cột</h3>
+        <div id="timkiem"></div>
+    </div>
+</section>

@@ -4491,11 +4491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hoc_tap\\Phat trien ung dung\\Nhom 4\\Project\\QuanLyKTX\\QuanLyKTX\\QuanLyKTX.csproj",
+      "projectUniqueName": "D:\\Hoc_tap\\Phat trien ung dung\\Nhom 4\\Project\\Quan Ly KTX DNTU\\QuanLyKTX\\QuanLyKTX.csproj",
       "projectName": "QuanLyKTX",
-      "projectPath": "D:\\Hoc_tap\\Phat trien ung dung\\Nhom 4\\Project\\QuanLyKTX\\QuanLyKTX\\QuanLyKTX.csproj",
+      "projectPath": "D:\\Hoc_tap\\Phat trien ung dung\\Nhom 4\\Project\\Quan Ly KTX DNTU\\QuanLyKTX\\QuanLyKTX.csproj",
       "packagesPath": "C:\\Users\\khoab\\.nuget\\packages\\",
-      "outputPath": "D:\\Hoc_tap\\Phat trien ung dung\\Nhom 4\\Project\\QuanLyKTX\\QuanLyKTX\\obj\\",
+      "outputPath": "D:\\Hoc_tap\\Phat trien ung dung\\Nhom 4\\Project\\Quan Ly KTX DNTU\\QuanLyKTX\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khoab\\AppData\\Roaming\\NuGet\\NuGet.Config",
