@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/QuanLyKTX/Views/Bangtin.cshtml
+/QuanLyKTX/Views/Bomaytochuc.cshtml
+/QuanLyKTX/Views/Dangki.cshtml
+/QuanLyKTX/Views/Dangnhap.cshtml
+/QuanLyKTX/Views/Gioithieu.cshtml
+/QuanLyKTX/Views/Lienhe.cshtml
+/QuanLyKTX/Views/Quanlysinhvien.cshtml
+/QuanLyKTX/Views/Quydinh.cshtml
+/QuanLyKTX/Views/Thongbao.cshtml
+/QuanLyKTX/Views/Tongquan.cshtml
+/QuanLyKTX/Views/Trangchu.cshtml
+/QuanLyKTX/Views/Xulyyeucau.cshtml
