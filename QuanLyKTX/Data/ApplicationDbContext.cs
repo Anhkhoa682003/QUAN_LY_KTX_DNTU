@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using QuanLyKTX.Models;
 
 namespace QuanLyKTX.Data
 {
@@ -9,5 +10,6 @@ namespace QuanLyKTX.Data
             : base(options)
         {
         }
+
     }
 }
