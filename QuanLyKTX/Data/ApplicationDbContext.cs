@@ -10,6 +10,7 @@ namespace QuanLyKTX.Data
             : base(options)
         {
         }
+        public DbSet<ApplicationUser> ApplicationUser { get; set; }
 
     }
 }

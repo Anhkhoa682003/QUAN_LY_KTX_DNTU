@@ -24,6 +24,7 @@
     <Folder Include="Areas\Staff\Controllers\" />
     <Folder Include="Controllers\" />
     <Folder Include="Data\Migrations\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>
